@@ -15,10 +15,10 @@ dependencies:
   - name: common
     version: 1.16.1
     repository: https://charts.bitnami.com/bitnami/
-  - name: mariadb
-    version: 11.3.5
-    repository: https://github.com/ansenio/charts-bt/bitnami/
-    condition: mariadb.enabled
+#  - name: mariadb
+#    version: 11.3.5
+#    repository: https://github.com/ansenio/charts-bt/bitnami/
+#    condition: mariadb.enabled
 annotations:
 #  artifacthub.io/signKey: |
 #    fingerprint: 9E57D2479D48B84463EF491F66D280CE667AD6C8
