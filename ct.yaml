@@ -1,2 +1,4 @@
 chart-repos:
-  - bitnami=https://charts.bitnami.com/bitnami/
+  - ansenio=https://github.com/AnsenIO/charts
+  - bitnami=https://github.com/bitnami/charts
+  - cowboys=https://github.com/cowboysysop/charts

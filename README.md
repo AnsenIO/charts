@@ -1,4 +1,4 @@
-# Cowboy Sysop Charts
+# IABAI Sysop Charts
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org/)
@@ -33,11 +33,7 @@
 All these charts are tested with [ct](https://github.com/helm/chart-testing) on multiple Kubernetes versions, from v1.19 to v1.26, with the help of [kind](https://kind.sigs.k8s.io/).
 
 ## Contributing
-
-As this is a personal project, as I want to keep some consistency between these charts and as I don't have enough time to write down the best practices I use, I'm not accepting any pull requests.
-
-However, I'll be happy to add some new features to these charts, so don't hesitate to open issues to submit your needs.
-
+Contribution is welcome
 ## Repository Settings
 
 Add a secret named `RENOVATE_TOKEN` containing a [Personal Access Token](https://github.com/settings/tokens) with `repo` and `workflow` scopes to make [Renovate GitHub Action](https://github.com/renovatebot/github-action) work.
